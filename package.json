@@ -1,0 +1,8 @@
+{
+  "name": "ld-hackernews",
+  "version": "1.0.0",
+  "description": "A Frontend for Hackernews using the Hackernews API",
+  "main": "index.html",
+  "author": "Bjoern Sellnau <info@loona-designs.tech>",
+  "license": "MIT"
+}
